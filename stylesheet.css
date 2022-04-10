@@ -7,7 +7,6 @@ main {
     font-family: "Hiragino Kaku Gothic";
 }
 
-
 .first {
     color:#ffffff;
     font-weight: 600;
@@ -21,23 +20,38 @@ main {
     font-weight:400;
 }
 
+.ID .name {
+color:cornflowerblue;
+}
+
 .ID h1 {
     font-size: 30px;
 }
 
 .first .NamePrate {
-    font-size: 30px;
+    font-size: 50px;
     color:rgba(0, 246, 176, 0.881);
 }
 
 .Chromesan .Nijichan {
     font-size:20px;
-    padding-left: 500px;
+    padding-left: 250px;
+}
+
+
+.footer {
+    color:blueviolet;
+}
+
+
+.footer2 {
+     
+    color:rgb(0, 0, 0);
     
 }
 
 .Chromesan .sackey {
-    padding-left: 500px;
+    font-size:15px;
 }
 
 
