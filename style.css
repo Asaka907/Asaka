@@ -1,0 +1,36 @@
+/*バックグラウンドをグラデーションにする処理*/
+body {
+    background: linear-gradient(30deg,hsl(0, 100%, 82%), #ffffff ) fixed;
+}
+
+main {
+    font-family: "Hiragino Kaku Gothic";
+}
+
+
+.first {
+    color:#ffffff;
+    font-weight: 600;
+    padding:100px;
+}
+
+.ID {
+    float:left;
+    font-weight: hold;
+    color:#ffffff;
+    font-weight:400;
+}
+
+.ID h1 {
+    font-size: 30px;
+}
+
+.first .NamePrate {
+    font-size: 30px;
+    color:rgba(0, 246, 176, 0.881);
+}
+
+.Chromesan .Nijichan {
+    font-size:20px;
+}
+
