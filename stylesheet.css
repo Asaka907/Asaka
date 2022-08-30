@@ -54,4 +54,7 @@ color:cornflowerblue;
     font-size:15px;
 }
 
+a:link, a:visited, a:hover, a:active {
+  color: pink;
+}
 
